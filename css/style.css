@@ -56,8 +56,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
 }
 
 img {
-  width:800px;
-  height:450px;
+  width:100%;
+  height:100%;
 }
 
 ul:hover li {
@@ -66,5 +66,5 @@ ul:hover li {
 
 
 ul li:hover {
-  width:750px;
+  width:400px;
 }
